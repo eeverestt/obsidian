@@ -1,0 +1,472 @@
+# Cognition and Behaviour
+
+## Memory
+- [[Processes of memory - encoding (input) storage and retrieval (output)]]
+  - [[Processes of memory - encoding (input) storage and retrieval (output)#Different types of memory|Different types of memory]]
+    - [[Processes of memory - encoding (input) storage and retrieval (output)#Semantic|Semantic]]
+    - [[Processes of memory - encoding (input) storage and retrieval (output)#Episodic|Episodic]]
+    - [[Processes of memory - encoding (input) storage and retrieval (output)#Procedural|Procedural]]
+  - [[Processes of memory - encoding (input) storage and retrieval (output)#How memories are encoded and stored|How memories are encoded and stored]]
+- [[Structures of memory]]
+  - [[Structures of memory#The multi-store model of memory|The multi-store model of memory]]
+    - [[Structures of memory#Sensory|Sensory]]
+    - [[Structures of memory#Short-term|Short-term]]
+    - [[Structures of memory#Long-term|Long-term]]
+    - [[Structures of memory#The multi-store model of memory#Evaluation|Evaluation]]
+  - [[Structures of memory#Primacy and recency effects in recall|Primacy and recency effects in recall]]
+  - [[Structures of memory#Murdock's serial position curve study|Murdock’s serial position curve study]]
+    - [[Structures of memory#Murdock's serial position curve study#AIM|AIM]]
+    - [[Structures of memory#Murdock's serial position curve study#METHOD|METHOD]]
+    - [[Structures of memory#Murdock's serial position curve study#RESULTS|RESULTS]]
+    - [[Structures of memory#Murdock's serial position curve study#CONCLUSION|CONCLUSION]]
+    - [[Structures of memory#Murdock's serial position curve study#EVALUATION|EVALUATION]]
+
+- [[Memory as an active process]]
+  - [[Memory as an active process#Bartlett's War of the Ghosts Study|Bartlett's War of the Ghosts Study]]
+    - [[Memory as an active process#Bartlett's War of the Ghosts Study#AIM|AIM]]
+    - [[Memory as an active process#Bartlett's War of the Ghosts Study#METHOD|METHOD]]
+    - [[Memory as an active process#Bartlett's War of the Ghosts Study#RESULTS|RESULTS]]
+    - [[Memory as an active process#Bartlett's War of the Ghosts Study#CONCLUSION|CONCLUSION]]
+  - [[Memory as an active process#Bartlett's Theory of reconstructive memory|Bartlett's Theory of reconstructive memory]]
+- [[Factors that affect memory]]
+	- [[Factors that affect memory#Interference|Interference]]
+	- [[Factors that affect memory#Context|Context]]
+	- [[Factors that affect memory#False Memories|False Memories]]
+## [[Perception]]
+- Sensation and perception
+- Visual cues and constancies
+  - Monocular depth cues
+    - Height in plane
+    - Relative Size
+    - Occlusion
+    - Linear Perspective
+  - Binocular depth cues
+    - Retinal disparity
+    - Convergence
+- Gibson's direct theory of perception – the influence of nature
+  - Optic Flow patterns
+  - Motion Parallax
+  - The Influence of Nature
+- Visual illusions
+  - Explanations for visual illusions
+    - Ambiguity
+    - Misinterpreted depth cues
+    - Fiction
+    - Size Constancy
+  - Examples of visual illusions
+    - Ponzo
+    - Müller-Lyer
+    - Rubin’s vase
+    - Ames Room
+    - Kanizsa triangle
+    - Necker cube
+- Gregory's constructivist theory of perception – the influence of nurture
+  - Inferences
+  - Role of Nurture
+- Factors affecting perception
+  - Perceptual set and the effects of the following factors affecting perception
+    - Culture
+    - Motivation
+      - Gilchrist and Nesburg study of motivation
+        - AIM
+        - METHOD
+        - RESULTS
+        - CONCLUSION
+    - Emotion
+    - Expectation
+  - Bruner and Minturn study of perceptual set
+    - AIM
+    - METHOD
+    - RESULTS
+    - CONCLUSION
+
+## [[Development]]
+- Early brain development
+  - A basic knowledge of brain development
+    - Neural structures in the womb
+      - Brain Stem
+      - Thalamus
+      - Cerebellum
+      - Cortex
+    - Development of autonomic functions
+      - Sensory Processing
+      - Movement
+      - Cognition
+  - The roles of nature and nurture
+- Piaget’s stage theory and the development of intelligence
+  - Piaget’s Theory of Cognitive Development
+    - Stages
+      - Sensorimotor
+      - Pre-operational
+      - Concrete Operational
+      - Formal Operational
+    - Schemas
+    - Accommodation
+    - Assimilation
+  - Piaget's flaws
+    - Conservation
+      - McGarrigle and Donaldson’s ‘naughty teddy study’
+    - Egocentrism
+      - Hughes’ ‘policeman doll study’
+  - Education
+    - Application of Stages to development
+- The effects of learning on development
+  - Dweck’s Mindset Theory of learning
+    - Fixed Mindset
+    - Growth Mindset
+    - The role of praise and self-efficacy beliefs in learning
+  - Learning styles
+    - Visualisers
+    - Verbalisers
+  - Willingham
+    - Learning Theory
+    - Criticism of Learning Styles
+
+## [[Research Methods]]
+- Data Handling
+  - Quantitative and qualitative data
+  - Primary and secondary data
+  - Computation
+    - Decimal
+    - Standard Form
+    - Ratio
+    - Percentages
+    - Estimation
+    - Arithmetic Mean
+    - Significant Figures
+  - Descriptive statistics
+    - Mean
+    - Mode
+    - Median
+    - Range
+  - Graphing
+    - Frequency Tables
+    - Diagrams
+    - Bar Charts
+    - Histograms
+    - Scatter Diagrams
+  - Normal Distribution
+    - Characteristics
+- Formulation of testable hypotheses
+  - Null
+  - Alternate
+- Types of variable
+  - Independent
+  - Dependant
+  - Extraneous
+- Sampling
+  - Target populations, samples and sampling methods and how to select samples using these methods
+    - Random
+      - Strengths
+      - Weaknesses
+    - Opportunity
+      - Strengths
+      - Weaknesses
+    - Systematic
+      - Strengths
+      - Weaknesses
+    - Stratified
+      - Strengths
+      - Weaknesses
+  - Understanding principles of sampling as applied to scientific data
+- Designing research
+  - Quantitative and qualitative methods
+    - The experimental method
+      - Experimental designs
+        - Independent Groups
+          - Strengths
+          - Weaknesses
+        - Repeated Measures
+          - Strengths
+          - Weaknesses
+        - Matched Pairs
+          - Strengths
+          - Weaknesses
+    - Studies
+      - Laboratory experiments
+        - Strengths
+        - Weaknesses
+      - Field experiments
+        - Strengths
+        - Weaknesses
+      - Natural experiments
+        - Strengths
+        - Weaknesses
+      - Case Studies
+        - Strengths
+        - Weaknesses
+      - Observation studies
+        - Strengths
+        - Weaknesses
+    - Direct Questions
+      - Interviews
+        - Strengths
+        - Weaknesses
+      - Questionnaires
+        - Strengths
+        - Weaknesses
+- Correlation
+  - Graphing
+  - Strengths
+  - Weaknesses
+- Research procedures
+  - Standardisation
+    - Standardised procedures
+    - Standardised instructions
+- Ethics
+  - Consent
+  - Debrief
+  - Confidentiality
+  - Deception
+  - Right to withdraw
+  - Protection from harm
+
+
+# Social Context and Behaviour
+
+## [[Social Influence]]
+- Factors
+  - Social
+  - Dispositional
+
+- Conformity
+  - Social Factors
+    - Group Size
+    - Anonymity
+    - Task Difficulty
+  - Dispositional Factors
+    - Expertise
+    - Locus of control
+  - Asch's study of conformity
+    - AIM
+    - METHOD
+    - RESULTS
+    - CONCLUSION
+
+- Obedience
+  - Social Factors
+    - Milgrim's agency theory
+      - Agentic state
+      - Autonomous state
+      - Culture (Social Hierarchy)
+      - Proximity
+  - Dispositional Factors
+    - Adorno's Authoritarian personality
+      - Respect members of authority
+      - Scapegoat
+      - Hostile parents (Conditional love)
+
+- Prosocial Behaviour
+  - Piliavin's study
+    - AIM
+    - METHOD
+    - RESULTS
+    - CONCLUSION
+  - Social Factors
+    - Presence of others
+    - Cost of helping
+  - Dispositional Factors
+    - Expertise
+    - Similarity to the victim
+
+- Crowd and collective Behaviour
+  - Zimbardo's study
+    - AIM
+    - METHOD
+    - RESULTS
+    - CONCLUSION
+  - Social Factors
+    - Social loathing
+    - Culture
+      - Collectivist
+      - Individualist
+  - Dispositional Factors
+    - Locus of control
+    - Morality
+
+## [[Language, Thought, and Communication]]
+- The possible relationship between language and thought / The effect of language and thought on our view of the world
+  - Piaget’s theory
+    - Language depends on thought
+  - The Sapir-Whorf hypothesis
+    - Thinking depends on language
+  - Variation in recall of events and recognition of colours
+    - Native America
+- Differences between human and animal communication
+  - Limited functions of animal communication
+    - Survival
+    - Reproduction
+    - Territory
+    - Food
+  - Von Frisch's bee study
+    - AIM
+    - METHOD
+    - RESULTS
+    - CONCLUSION
+  - Properties of human communication not present in animal communication
+    - Planning ahead
+    - Creativity
+    - Multiple Channels
+- Non Verbal Communication
+  - Definitions of non-verbal communication and verbal communication
+  - Functions of eye contact
+    - Regulating flow of conversation
+    - Signalling attraction
+    - Expressing emotion
+  - Body language
+    - Open and closed posture
+    - Postural Echo
+    - Touch
+  - Personal Space
+    - Culture
+    - Status
+    - Gender
+- Examples of non-verbal behaviour
+  - Darwin’s evolutionary theory of non-verbal communication as evolved and adaptive
+  - Evidence that non-verbal behaviour is innate
+    - Neonates
+    - Sensory deprived
+  - Evidence that non-verbal behaviour is learned
+    - Yuki's study of emoticons
+      - AIM
+      - METHOD
+      - RESULTS
+      - CONCLUSION
+
+## [[Brain and Neuropsychology]]
+- Structure and function of the nervous system
+  - CNS
+  - PNS
+    - Somatic
+    - Autonomic
+      - Fight or Flight
+  - James-Lange theory of emotion
+- Neuron structure and function
+  - Neurones
+    - Sensory
+    - Relay
+    - Motor
+  - Synaptic Transmission
+    - Release and reuptake of neurotransmitters
+    - Excitation
+    - Inhibition
+  - Hebb's theory of learning and neuronal growth
+    - Synaptic connections strengthen through use
+    - Engrams
+    - Synaptic connections become more efficient as the brain develops
+- Structure and function of the brain
+  - Brain structure
+    - Frontal lobe
+      - Function
+      - Localisation
+    - Temporal lobe
+      - Function
+      - Localisation
+    - Parietal lobe
+      - Function
+      - Localisation
+    - Occipital lobe
+      - Function
+      - Localisation
+    - Cerebellum
+      - Function
+      - Localisation
+    - Motor
+      - Function
+      - Localisation
+    - Somatosensory
+      - Function
+      - Localisation
+    - Visual
+      - Function
+      - Localisation
+    - Auditory
+      - Function
+      - Localisation
+    - Language
+      - Wernicke
+        - Function
+        - Localisation
+      - Broca
+        - Function
+        - Localisation
+  - Penfield’s study of the interpretive cortex
+- An introduction to neuropsychology
+  - How the structure and function of the brain relate to behaviour and cognition
+  - Brain Scans
+    - CT
+    - PET
+    - fMRI
+  - Tulving's 'Gold' study of memory
+    - AIM
+    - METHOD
+    - RESULTS
+    - CONCLUSION
+  - How neurological damage, e.g stroke or injury can affect motor abilities and behaviour
+
+## [[Psychological Problems]]
+- An introduction to mental health and how the incidence of significant mental health problems changes over time
+  - Characteristics of mental health
+    - Positive engagement with society
+    - Effective coping with challanges
+  - Cultural variations in beliefs about mental health problems
+  - Increased challenges of modern living
+    - Isolation
+  - Increased recognition of the nature of mental health problems and lessening of social stigma
+- Effects of significant mental health problems on individuals and society
+  - Individual effects
+    - Damage to relationships
+    - Difficulties coping with day to day life
+    - Negative impact on physical wellbeing
+  - Social effects
+    - Need for more social care
+    - Increased crime rates
+    - Implications for the economy
+- Characteristics of clinical depression
+  - Differences between
+    - Unipolar depression
+    - Bipolar depression
+    - Sadness
+  - The use of International Classification of Diseases 11 in diagnosing unipolar depression
+    - Number and severity of symptoms
+      - Low mood
+      - reduced energy levels
+      - changes in sleep patterns
+      - changes in appetite levels
+      - decrease in self-confidence
+- Theories of depression and interventions or therapies for depression
+  - Biological explanation
+    - imbalance of neurotransmitters, eg serotonin in the brain
+  - Psychological explanation
+    - negative schemas and attributions
+  - Use of antidepressant medications
+  - Cognitive behaviour therapy (CBT)
+  - How these improve mental health
+    - reductionist
+    - holistic
+  - Wiles’ study of the effectiveness of CBT
+    - AIM
+    - METHOD
+    - RESULTS
+    - CONCLUSION
+- Characteristics of addiction
+  - The difference between
+    - Addiction
+    - Dependence
+    - Substance misuse / absue
+  - The use of International Classification of Diseases in diagnosing addiction
+    - Including a strong desire to use substances despite harmful consequences
+    - Difficulty in controlling use
+    - a higher priority given to the substance(s) than to other activities or obligations
+- Theories of addiction and interventions or therapies for addiction
+  - Biological explanation
+    - Hereditary factors/genetic vulnerability
+  - Psychological explanation
+    - Peer influence
+    - Aversion therapy
+  - Self-management programmes
+    - self-help groups
+    - 12 step recovery programmes
+  - How these improve mental health
+    - reductionist
+    - holistic

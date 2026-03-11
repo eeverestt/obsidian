@@ -1,0 +1,8 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "textFontFamily": "Roboto Mono",
+  "interfaceFontFamily": "Roboto Mono",
+  "enabledCssSnippets": [
+    "mermaid-centre"
+  ]
+}
