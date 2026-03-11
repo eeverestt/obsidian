@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Memory/Memory as an active process.md",
+                "file": "Computer Science/Computer Science Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory as an active process"
+              "title": "Computer Science Overview"
             }
           }
         ]
@@ -137,32 +137,18 @@
             }
           },
           {
-            "id": "32fc7af5d5d947ba",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "c47333d3c6e42ed5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology/Psychology Overview.md",
+                "file": "Computer Science/Computer Science Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Psychology Overview"
+              "title": "Outline of Computer Science Overview"
             }
           },
           {
@@ -186,11 +172,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,16 +194,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df63fad82a2b648d",
+  "active": "f11b9f56214ae9e6",
   "lastOpenFiles": [
-    "Psychology/Memory/Factors that affect memory.md",
-    "Psychology/Memory/Memory as an active process.md",
-    "Psychology/Memory/Structures of memory.md",
+    "Computer Science/Systems Architecture/The CPU.md",
+    "Computer Science/Systems Architecture/CPU Performance.md",
+    "Computer Science/Systems Architecture/Embedded Systems.md",
+    "Computer Science/Systems Architecture/Registers and FE Cycle.md",
+    "2026-03-11.md",
+    "Computer Science/Computer Science Overview.md",
+    "Untitled.canvas",
     "Psychology/Psychology Overview.md",
+    "Psychology/Brain and Neuropsychology/Brain and Neuropsychology.md",
+    "Psychology/Memory/Memory as an active process.md",
+    "CPU Performance.md",
     "Psychology/Memory/Processes of memory - encoding (input) storage and retrieval (output).md",
+    "Psychology/Memory/Structures of memory.md",
+    "Computer Science/Producing Robust Programs",
+    "Computer Science/Systems Software",
     "Psychology/Memory/assets/Murdock's serial position curve.png",
+    "Computer Science/Languages and IDE",
+    "Computer Science/Boolean Logic",
+    "Computer Science/Programming Fundementals",
+    "Computer Science/Algorithms",
+    "Computer Science/Impacts",
+    "Computer Science/Network Security",
+    "Computer Science/Networks",
+    "Computer Science/Memory and Storage",
+    "Psychology/Memory/Factors that affect memory.md",
     "{8CCF4FD4-2E5E-457C-929A-37D60A3695DE}.png",
-    "Psychology/Memory/assets",
     "Pasted image 20260308132842.png",
     "Memory as an active process.md",
     "Memory.md",
@@ -228,20 +233,8 @@
     "Psychology/Language, Thought, and Communication/Language, Thought, and Communication.md",
     "Language, Thought and Communication.md",
     "Psychology/Development/Development.md",
-    "Psychology/Brain and Neuropsychology/Brain and Neuropsychology.md",
     "Untitled.md",
-    "Psychology/Psychological Problems",
-    "Psychology/Brain and Neuropsychology",
-    "Psychology/Language, Thought, and Communication",
-    "Psychology/Social Influence",
-    "Psychology/Research Methods",
-    "Psychology/Development",
-    "Psychology/Perception",
-    "Psychology/Memory",
     "Untitled mindmap.md",
-    "Psychology/Psychological Problems.md",
-    "Psychology",
-    "create a link.md",
-    "Welcome.md"
+    "Psychology/Psychological Problems.md"
   ]
 }
